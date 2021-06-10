@@ -96,7 +96,7 @@ f"""
 **=>> More tools 🧑‍🔧**
 
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-- /userbotjoin: Invite @{ASSISTANT_NAME} Userbot to your chat
+
 
 **=>> Commands for Sudo Users ⚔️**
 
